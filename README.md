@@ -1,3 +1,5 @@
+Diploy link :- https://64d7c608faf31924575eef33--genuine-rolypoly-4a1910.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
